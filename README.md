@@ -9,3 +9,5 @@ This Java Paint App provides users with an interactive canvas for digital painti
 - **Java**: The primary programming language for the application's logic and functionality.
 
 - **JavaFX**: A rich set of graphics and media libraries for Java, used for building the graphical user interface.
+
+- **IntelliJ IDEA**: An integrated development environment (IDE) for Java, used for coding, debugging, and managing the project.
